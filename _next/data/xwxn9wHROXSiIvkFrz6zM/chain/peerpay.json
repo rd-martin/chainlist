@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"Peerpay","chain":"P2P","rpc":[{"url":"https://peerpay.su.gy/p2p"}],"faucets":[],"nativeCurrency":{"name":"Peerpay","symbol":"P2P","decimals":18},"infoURL":"https://peerpay.su.gy","shortName":"Peerpay","chainId":6502,"networkId":6502,"explorers":[]}},"__N_SSG":true}

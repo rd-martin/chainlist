@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"DBChain Testnet","chain":"DBM","rpc":[{"url":"http://test-rpc.dbmbp.com"}],"faucets":[],"nativeCurrency":{"name":"DBChain Testnet","symbol":"DBM","decimals":18},"infoURL":"http://test.dbmbp.com","shortName":"dbm","chainId":67,"networkId":67,"slip44":1}},"__N_SSG":true}

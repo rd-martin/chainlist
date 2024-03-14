@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"Zeeth Chain","chain":"ZeethChain","rpc":[{"url":"https://rpc.zeeth.io"}],"faucets":[],"nativeCurrency":{"name":"Zeeth Token","symbol":"ZTH","decimals":18},"infoURL":"","shortName":"zeeth","chainId":427,"networkId":427,"explorers":[{"name":"Zeeth Explorer","url":"https://explorer.zeeth.io","standard":"none"}]}},"__N_SSG":true}

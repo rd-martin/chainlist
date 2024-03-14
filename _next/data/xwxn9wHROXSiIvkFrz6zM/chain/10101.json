@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"Blockchain Genesis Mainnet","chain":"GEN","rpc":[{"url":"https://eu.mainnet.xixoio.com"},{"url":"https://us.mainnet.xixoio.com"},{"url":"https://asia.mainnet.xixoio.com"}],"faucets":[],"nativeCurrency":{"name":"GEN","symbol":"GEN","decimals":18},"infoURL":"https://www.xixoio.com/","shortName":"GEN","chainId":10101,"networkId":10101}},"__N_SSG":true}

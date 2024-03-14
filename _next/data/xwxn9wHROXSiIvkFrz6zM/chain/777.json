@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"cheapETH","chain":"cheapETH","rpc":[{"url":"https://node.cheapeth.org/rpc"}],"faucets":[],"nativeCurrency":{"name":"cTH","symbol":"cTH","decimals":18},"infoURL":"https://cheapeth.org/","shortName":"cth","chainId":777,"networkId":777}},"__N_SSG":true}

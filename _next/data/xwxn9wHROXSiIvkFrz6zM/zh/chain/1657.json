@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"Btachain","chain":"btachain","rpc":[{"url":"https://dataseed1.btachain.com"}],"faucets":[],"nativeCurrency":{"name":"Bitcoin Asset","symbol":"BTA","decimals":18},"infoURL":"https://bitcoinasset.io/","shortName":"bta","chainId":1657,"networkId":1657}},"__N_SSG":true}

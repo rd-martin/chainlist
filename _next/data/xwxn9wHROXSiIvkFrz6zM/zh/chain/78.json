@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"PrimusChain mainnet","chain":"PC","rpc":[{"url":"https://ethnode.primusmoney.com/mainnet"}],"faucets":[],"nativeCurrency":{"name":"Primus Ether","symbol":"PETH","decimals":18},"infoURL":"https://primusmoney.com","shortName":"primuschain","chainId":78,"networkId":78}},"__N_SSG":true}

@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"Xerom","chain":"XERO","rpc":[{"url":"https://rpc.xerom.org"}],"faucets":[],"nativeCurrency":{"name":"Xerom Ether","symbol":"XERO","decimals":18},"infoURL":"https://xerom.org","shortName":"xero","chainId":1313500,"networkId":1313500}},"__N_SSG":true}

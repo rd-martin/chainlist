@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"Wanchain Testnet","chain":"WAN","rpc":[{"url":"https://gwan-ssl.wandevs.org:46891"}],"faucets":[],"nativeCurrency":{"name":"Wancoin","symbol":"WAN","decimals":18},"infoURL":"https://testnet.wanscan.org","shortName":"twan","chainId":999,"networkId":999,"slip44":1}},"__N_SSG":true}

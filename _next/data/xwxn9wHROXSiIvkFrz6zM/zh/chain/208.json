@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"Structx Mainnet","chain":"utx","rpc":[{"url":"https://mainnet.structx.io"}],"faucets":[],"nativeCurrency":{"name":"Notes","symbol":"utx","decimals":18},"infoURL":"https://structx.io","shortName":"utx","chainId":208,"networkId":208}},"__N_SSG":true}

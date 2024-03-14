@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"Permission","chain":"ASK","rpc":[{"url":"https://blockchain-api-mainnet.permission.io/rpc"}],"faucets":[],"nativeCurrency":{"name":"ASK","symbol":"ASK","decimals":18},"infoURL":"https://permission.io/","shortName":"ASK","chainId":222,"networkId":2221,"slip44":2221,"status":"deprecated"}},"__N_SSG":true}

@@ -1,0 +1,1 @@
+{"pageProps":{"chain":{"name":"SoterOne Mainnet old","chain":"SOTER","rpc":[{"url":"https://rpc.soter.one"}],"faucets":[],"nativeCurrency":{"name":"SoterOne Mainnet Ether","symbol":"SOTER","decimals":18},"infoURL":"https://www.soterone.com","shortName":"SO1-old","chainId":218,"networkId":218,"status":"deprecated"}},"__N_SSG":true}
